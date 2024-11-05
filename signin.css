@@ -1,0 +1,56 @@
+.event-nepal{
+    margin-left: 200px;
+    margin-top:100px;
+    color:blue;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    margin-left: 200px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ 
+}
+.container{
+    margin-left:800px;
+    margin-top:-100px;
+}
+.form-control{
+    width:500px;
+    padding:10px;
+    
+}
+.login-button {
+    width: 500px;        /* Set the button width */
+    padding:10px;       /* Add padding for better appearance */
+    background-color: #007bff; /* Set background color */
+    color: white;        /* Set text color */
+    border: none;        /* Remove default border */
+    border-radius: 5px;  /* Optional: Add rounded corners */
+    font-size: 16px;     /* Set font size */
+    cursor: pointer;      /* Change cursor to pointer */
+}
+
+
+.login-button:hover {
+    background-color: #0056b3; /* Change background color on hover */
+}
+.forgetpsw{
+    margin-left:180px;
+}
+.create-button{
+    width:300px;
+    padding:10px;
+    background-color:green;
+    color:white;
+    border-radius:5px;
+    font-size:15px;
+    cursor:pointer;
+    margin-left:100px;
+    margin-top:20px;
+}
+.f-container{
+    text-align: center;
+
+}

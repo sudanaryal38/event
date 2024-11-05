@@ -1,0 +1,65 @@
+
+.navbar-brand{
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    margin-right:40px;
+}
+.navbar-brand:hover{
+        background-color: cyan;
+}
+
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:black;
+   margin-left:10px;
+
+}
+.nav-item:hover{
+    background-color: cyan;
+}
+.sign-in{
+    font-size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.sign-in:hover{
+    background-color: cyan;
+}
+
+.card-container,.card-container1{
+    display:flex;
+    justify-content:between;
+
+}
+.card,.card1,.card2{
+    background-color: lightcoral;
+    padding:10px;
+    margin-left:40px;
+    width:28rem;
+    border-radius: 5px;
+}
+.card3,.card4,.card5{
+    width:28rem;
+    padding:10px;
+    background-color:lightcoral;
+    margin-left:40px;
+    margin-top:10px;
+    border-radius: 5px;
+}
+.footer{
+    text-align: center;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.theme-selector{
+display:flex;
+justify-content: right;
+}
